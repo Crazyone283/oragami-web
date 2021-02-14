@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(255, 0, 81, 0.153);
+}
+
+.links{
+    display:table-cell;
+    padding-left: 7;
+}
+.crane_one p{
+    color:magenta;
+    display: flex;
+    justify-content: flex-start;
+}
